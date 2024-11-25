@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\multi\multi\bin\Debug\net8.0-windows\multi.exe
+C:\Users\ADMIN\source\repos\multi\multi\bin\Debug\net8.0-windows\multi.deps.json
+C:\Users\ADMIN\source\repos\multi\multi\bin\Debug\net8.0-windows\multi.runtimeconfig.json
+C:\Users\ADMIN\source\repos\multi\multi\bin\Debug\net8.0-windows\multi.dll
+C:\Users\ADMIN\source\repos\multi\multi\bin\Debug\net8.0-windows\multi.pdb
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.Form1.resources
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.dll
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\refint\multi.dll
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.pdb
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\ref\multi.dll
+C:\Users\ADMIN\source\repos\multi\multi\obj\Debug\net8.0-windows\multi.Properties.Resources.resources
